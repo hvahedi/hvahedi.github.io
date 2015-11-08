@@ -1,12 +1,12 @@
 # Site settings
-title: Hossein Karami | حسین کرمی
-email: hi@hosseinkarami.com
-description: توسعه‌دهنده رابط کاربری
-baseurl: "http://hosseinkarami.com/"
-url: "http://hosseinkarami.com"
-twitter: _Karamii
-github:  HosseinKarami
-behance: HosseinKarami
+title: hanieh vahedi | هانیه واحدی
+email: hi@hvahedi.ir
+description: دانشجوی کارشناسی ترم افزار
+baseurl: "http://hvahedi.ir"
+url: "http://hvahedi.ir"
+twitter: _vahedi
+github:  hvahedi
+behance: hvahedi
 # Build settings
 markdown: kramdown
 permalink: pretty
